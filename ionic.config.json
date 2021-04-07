@@ -1,0 +1,7 @@
+{
+  "name": "photo-frame",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
